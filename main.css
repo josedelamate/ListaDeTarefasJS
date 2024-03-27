@@ -84,10 +84,10 @@ h1 {
 }
 
 .editar {
-    background-color: none;
+    background: none;
     outline: none;
     border: none;
-    color: lightgreen;
+    color: rgb(7, 107, 48);
     font-size: 1.4rem;
     font-family: 'Hind', sans-serif;
     margin: 0.5rem;
@@ -98,7 +98,7 @@ h1 {
     background: none;
     outline: none;
     border: none;
-    color: rgb(145, 211, 145);
+    color: rgb(138, 48, 36);
     font-size: 1.4rem;
     font-family: 'Hind', sans-serif;
     cursor: pointer;
